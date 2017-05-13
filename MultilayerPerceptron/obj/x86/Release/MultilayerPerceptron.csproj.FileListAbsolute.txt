@@ -1,0 +1,8 @@
+C:\Users\Хозяин\Documents\Visual Studio 2015\Projects\MultilayerPerceptron\MultilayerPerceptron\bin\Release\MultilayerPerceptron.exe
+C:\Users\Хозяин\Documents\Visual Studio 2015\Projects\MultilayerPerceptron\MultilayerPerceptron\bin\Release\MultilayerPerceptron.pdb
+C:\Users\Хозяин\Documents\Visual Studio 2015\Projects\MultilayerPerceptron\MultilayerPerceptron\obj\x86\Release\MultilayerPerceptron.csprojResolveAssemblyReference.cache
+C:\Users\Хозяин\Documents\Visual Studio 2015\Projects\MultilayerPerceptron\MultilayerPerceptron\obj\x86\Release\MultilayerPerceptron.MainForm.resources
+C:\Users\Хозяин\Documents\Visual Studio 2015\Projects\MultilayerPerceptron\MultilayerPerceptron\obj\x86\Release\MultilayerPerceptron.Properties.Resources.resources
+C:\Users\Хозяин\Documents\Visual Studio 2015\Projects\MultilayerPerceptron\MultilayerPerceptron\obj\x86\Release\MultilayerPerceptron.csproj.GenerateResource.Cache
+C:\Users\Хозяин\Documents\Visual Studio 2015\Projects\MultilayerPerceptron\MultilayerPerceptron\obj\x86\Release\MultilayerPerceptron.exe
+C:\Users\Хозяин\Documents\Visual Studio 2015\Projects\MultilayerPerceptron\MultilayerPerceptron\obj\x86\Release\MultilayerPerceptron.pdb

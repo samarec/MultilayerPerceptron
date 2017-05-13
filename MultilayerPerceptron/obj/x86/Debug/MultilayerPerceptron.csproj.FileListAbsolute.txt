@@ -1,0 +1,16 @@
+C:\reserve\studing\ИС\MultilayerPerceptron\MultilayerPerceptron\bin\Debug\MultilayerPerceptron.exe
+C:\reserve\studing\ИС\MultilayerPerceptron\MultilayerPerceptron\bin\Debug\MultilayerPerceptron.pdb
+C:\reserve\studing\ИС\MultilayerPerceptron\MultilayerPerceptron\obj\x86\Debug\MultilayerPerceptron.MainForm.resources
+C:\reserve\studing\ИС\MultilayerPerceptron\MultilayerPerceptron\obj\x86\Debug\MultilayerPerceptron.Properties.Resources.resources
+C:\reserve\studing\ИС\MultilayerPerceptron\MultilayerPerceptron\obj\x86\Debug\MultilayerPerceptron.csproj.GenerateResource.Cache
+C:\reserve\studing\ИС\MultilayerPerceptron\MultilayerPerceptron\obj\x86\Debug\MultilayerPerceptron.exe
+C:\reserve\studing\ИС\MultilayerPerceptron\MultilayerPerceptron\obj\x86\Debug\MultilayerPerceptron.pdb
+C:\reserve\studing\ИС\MultilayerPerceptron\MultilayerPerceptron\obj\x86\Debug\MultilayerPerceptron.csprojResolveAssemblyReference.cache
+C:\Users\Хозяин\Documents\Visual Studio 2015\Projects\MultilayerPerceptron\MultilayerPerceptron\obj\x86\Debug\MultilayerPerceptron.exe
+C:\Users\Хозяин\Documents\Visual Studio 2015\Projects\MultilayerPerceptron\MultilayerPerceptron\obj\x86\Debug\MultilayerPerceptron.pdb
+C:\Users\Хозяин\Documents\Visual Studio 2015\Projects\MultilayerPerceptron\MultilayerPerceptron\bin\Debug\MultilayerPerceptron.exe
+C:\Users\Хозяин\Documents\Visual Studio 2015\Projects\MultilayerPerceptron\MultilayerPerceptron\bin\Debug\MultilayerPerceptron.pdb
+C:\Users\Хозяин\Documents\Visual Studio 2015\Projects\MultilayerPerceptron\MultilayerPerceptron\obj\x86\Debug\MultilayerPerceptron.csprojResolveAssemblyReference.cache
+C:\Users\Хозяин\Documents\Visual Studio 2015\Projects\MultilayerPerceptron\MultilayerPerceptron\obj\x86\Debug\MultilayerPerceptron.MainForm.resources
+C:\Users\Хозяин\Documents\Visual Studio 2015\Projects\MultilayerPerceptron\MultilayerPerceptron\obj\x86\Debug\MultilayerPerceptron.Properties.Resources.resources
+C:\Users\Хозяин\Documents\Visual Studio 2015\Projects\MultilayerPerceptron\MultilayerPerceptron\obj\x86\Debug\MultilayerPerceptron.csproj.GenerateResource.Cache
